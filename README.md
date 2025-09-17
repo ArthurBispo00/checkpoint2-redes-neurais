@@ -4,6 +4,23 @@ Este repositório contém a resolução da atividade de Treinamento de Redes Neu
 
 O código completo dos experimentos está no arquivo `exercicios_keras.ipynb.ipynb`.
 
+### Como Rodar os Experimentos
+
+O projeto foi desenvolvido utilizando o Google Colab e os dados foram carregados diretamente na sessão. Para replicar os resultados, siga os passos abaixo:
+
+**1. Pré-requisitos:**
+* Uma conta Google para acessar o [Google Colab](https://colab.research.google.com/). Nenhuma instalação local é necessária.
+
+**2. Obtenção dos Dados:**
+* **Wine Dataset:** Faça o download do arquivo `wine.data` a partir do [Repositório UCI Machine Learning](https://archive.ics.uci.edu/ml/machine-learning-databases/wine/).
+* **California Housing Dataset:** Faça o download do arquivo `cal_housing.data` a partir do [Repositório StatLib da Carnegie Mellon](http://lib.stat.cmu.edu/datasets/houses.zip). (Este link baixa um .zip, extraia o `cal_housing.data` de dentro).
+
+**3. Execução:**
+1.  Abra o arquivo `.ipynb` deste repositório no Google Colab.
+2.  No menu à esquerda, clique no ícone de **Pasta** para abrir o painel de arquivos.
+3.  Clique no ícone de **Upload** (uma página com uma seta para cima) e suba os dois arquivos que você baixou: `wine.data` e `cal_housing.data`.
+4.  Com os arquivos na sessão, execute todas as células do notebook em ordem, de cima para baixo, usando "Shift + Enter" ou o botão de "Play".
+
 ---
 
 ### Exercício 1 – Classificação Multiclasse (Wine Dataset)
