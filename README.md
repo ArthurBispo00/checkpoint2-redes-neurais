@@ -4,6 +4,11 @@ Este repositório contém a resolução da atividade de Treinamento de Redes Neu
 
 O código completo dos experimentos está no arquivo `exercicios_keras.ipynb.ipynb`.
 
+## 👨‍💻 Integrantes
+
+- Arthur Bispo de Lima - RM:557568
+- João Paulo Moreira dos Santos RM:557808
+
 ### Como Rodar os Experimentos
 
 O projeto foi desenvolvido utilizando o Google Colab e os dados foram carregados diretamente na sessão. Para replicar os resultados, siga os passos abaixo:
